@@ -9,16 +9,6 @@ fun getCustomerInfo(businessName: String, name: String, phone: String): Triple<S
 }
 
 
-//fun addSomeNumbers(x: Int, y: Int): Int{
-//    return x+y
-//}
-//
-//fun addSomeNumbers(x: Int, y:Int, z: Int): Int{
-//    var ans = x+ y+ z
-//    return ans
-//
-//}
-
 fun main(){
     var selectionNum = 0
     print("please indicate which type of customer you are\n" +
